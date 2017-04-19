@@ -1,9 +1,14 @@
-# api documentation for  [angular-cookies (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-cookies.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-cookies) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-cookies.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-cookies)
+# npmdoc-angular-cookies
+
+#### api documentation for  [angular-cookies (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-cookies.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-cookies) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-cookies.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-cookies)
+
 #### AngularJS module for cookies
 
-[![NPM](https://nodei.co/npm/angular-cookies.png?downloads=true)](https://www.npmjs.com/package/angular-cookies)
+[![NPM](https://nodei.co/npm/angular-cookies.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-cookies)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-cookies/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular-cookies_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-cookies/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-angular-cookies/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-cookies/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-cookies/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-cookies/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-cookies/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Angular Core Team",
-        "email": "angular-core+npm@google.com"
+        "name": "Angular Core Team"
     },
     "bugs": {
         "url": "https://github.com/angular/angular.js/issues"
@@ -53,17 +57,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "angularcore",
-            "email": "angular-core+npm@google.com"
+            "name": "angularcore"
         },
         {
-            "name": "petebd",
-            "email": "pete@bacondarwin.com"
+            "name": "petebd"
         }
     ],
     "name": "angular-cookies",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular/angular.js.git"
@@ -74,16 +75,6 @@
     "version": "1.6.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular-cookies](#apidoc.module.angular-cookies)
-
-
-
-# <a name="apidoc.module.angular-cookies"></a>[module angular-cookies](#apidoc.module.angular-cookies)
 
 
 
